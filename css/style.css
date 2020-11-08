@@ -1,0 +1,24 @@
+body{
+background-image: url("background.jpg");
+background-position: cover;
+ 
+}
+h1{
+    text-align: center;
+    font: Roboto;
+    color:"#F5F5DC", "#320D6D", rgb(50, 13, 109,.8 );
+}
+table, th, td {
+    border: 2px solid black;
+  }
+
+th, td {
+    padding:10;
+    text-align : left ;
+}
+
+
+
+p{
+    font-family: Roboto;
+}
